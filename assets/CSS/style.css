@@ -10,7 +10,7 @@ div{
 	width: 25%
 }
 div{
-	border: solid 2px antiquewhite;
+	border: solid 2px white;
 	padding: 10px;
 }
 h1, h4, span{
@@ -20,9 +20,8 @@ h1, h4, span{
 h1{
 	font-size: 30pt;
 }
-div.header, div.gems{
-	background-color: #e0e0eb;
-}
+
+
 div.header, div.instructions{
 	width: 50%;
 }
@@ -31,6 +30,7 @@ div.header, div.instructions{
 	width: 15%;
 	height: 60px;
 }
+
 .userTotal{
 	width: 15%;
 	height: 60px;
@@ -38,10 +38,16 @@ div.header, div.instructions{
 .diamonds{
 	clear: both;
 }
+
+
 .diamondImage{
 	height: 50px;
     margin: 10px;
 }   
+
+
+
+
 #blue{
 	color: blue;
 }
